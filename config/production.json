@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://veli123:veli123@devconnector-8mdjv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "6b30ca26807ec7fa618d",
+  "githubSecret": "0998cf12c21cdb18aecfc826bf22dff9937754cd"
+}
